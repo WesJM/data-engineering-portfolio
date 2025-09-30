@@ -1,4 +1,4 @@
-# 🗂 Data Engineering Portfolio
+# Data Engineering Portfolio
 
 ![Python](https://img.shields.io/badge/Python-Programming-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Queries-lightgrey)
@@ -17,23 +17,23 @@ Each project is fully documented and containerized for reproducibility.
 
 ## 📐 Projects Overview
 
-### 🌊 Real-Time NOAA Buoy Data Pipeline
+### Real-Time NOAA Buoy Data Pipeline
 - **Tech:** Kafka (Redpanda), Python, S3, Snowflake, Snowpipe, Pandas  
 - **Highlights:**  
   - Real-time streaming ingestion from NOAA buoy sensors.  
   - Curated Parquet files with schema enforcement, timestamp normalization, and missing-value handling.  
   - Automated Snowflake loading via Snowpipe for analytics-ready querying.  
-- 📂 [Project Folder](./streaming_pipeline)  
+- 📂 [Project Repo](https://github.com/WesJM/streaming-pipeline)  
 
 ---
 
-### 🎯 Pinball Maps Batch Data Pipeline
+### Pinball Maps Batch Data Pipeline
 - **Tech:** Apache Airflow, dbt, Snowflake, Docker, REST API  
 - **Highlights:**  
   - Airflow DAGs ingest data from the Pinball Maps API into Snowflake.  
   - Config-driven and data-driven DAGs with retries, logging, and error handling.  
   - dbt models structured data into a star schema (fact + dimension tables).  
-- 📂 [Project Folder](./batch_pipeline)  
+- 📂 [Project Repo](https://github.com/WesJM/batch-pipeline)  
 
 ---
 
