@@ -1,4 +1,4 @@
-# Data Engineering Portfolio
+# Data Engineering Projects Portfolio
 
 ![Python](https://img.shields.io/badge/Python-Programming-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Queries-lightgrey)
