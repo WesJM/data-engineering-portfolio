@@ -2,12 +2,13 @@
 
 ![Python](https://img.shields.io/badge/Python-Programming-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Queries-lightgrey)
+![API](https://img.shields.io/badge/API-Integration-blueviolet)
 ![Airflow](https://img.shields.io/badge/Airflow-Orchestration-blue)
 ![Kafka](https://img.shields.io/badge/Kafka-Streaming-black)
 ![dbt](https://img.shields.io/badge/dbt-Transformations-orange)
 ![Snowflake](https://img.shields.io/badge/Snowflake-Cloud-lightblue)
-![AWS S3](https://img.shields.io/badge/AWS-S3-green)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20EC2-yellow)
+![Docker](https://img.shields.io/badge/Docker-Containerization-darkblue)
 
 Welcome! This repository highlights **end-to-end data engineering projects** I built to demonstrate skills in **real-time streaming pipelines, batch orchestration, cloud data warehousing, and modern transformation frameworks**.
 
